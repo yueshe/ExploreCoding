@@ -1,0 +1,11 @@
+#img_container {
+	display: block;
+}
+#trend {
+	position: absolute;
+	width: 500px;
+	top: 15%;
+	height: 300px;
+	left: calc(50% - 250px);
+	margin:0 auto;
+}
