@@ -1,0 +1,107 @@
+body {
+	font-family: 'Yrsa', serif;
+	font-size: 22px;
+}
+li {
+	padding: 15px;
+}
+.final_introduction {
+	display: none;
+	position: absolute;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	margin-top: 50px;
+	font-size: 24px;
+	font-weight: 700;
+}
+.introduction {
+	position: absolute;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	margin-top: 50px;
+	font-size: 24px;
+	font-weight: 700;
+}
+.question_container {
+	width: 100%;
+	position: absolute;
+	top: 250px;
+}
+.overall {
+	position:absolute;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+
+}
+.mobile {
+	position:absolute;
+	display: none;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+}
+.web {
+	position:absolute;
+	display: none;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+}
+.script {
+	position:absolute;
+	display: none;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+}
+.low-level {
+	position:absolute;
+	display: none;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+}
+.analysis {
+	position:absolute;
+	display: none;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+}
+.database {
+	position:absolute;
+	display: none;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+}
+.android {
+	position:absolute;
+	display: none;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+}
+.ios {
+	position:absolute;
+	display: none;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+}
+.front-end {
+	position:absolute;
+	display: none;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+}
+.back-end {
+	position:absolute;
+	display: none;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+}
+.computer {
+	position:absolute;
+	display: none;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+}
+.robot {
+	position:absolute;
+	display: none;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+}
