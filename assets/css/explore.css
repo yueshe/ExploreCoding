@@ -11,9 +11,29 @@ h1 {
 	left: 50%;
 	-webkit-transform: translateX(-50%);
 }
+button {
+	padding: 10px;
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+}
+button:hover {
+	background-color: black;
+	color:white;
+}
+a {
+	color: white;
+	text-decoration: none;
+}
 li {
 	padding: 15px;
 	cursor: pointer;
+}
+.button {
+	display: none;
+	position: absolute;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	top: 570px;
 }
 .final_introduction {
 	display: none;
