@@ -119,5 +119,11 @@ $(document).ready(function() {
 		$(".overall").delay(1000).fadeIn(1000);
 	})
 
+	$("li").hover(function() {
+		$(this).css({"background-color": "black", "color": "white"});
+	}, function() {
+		$(this).css({"background-color": "#DCDCDC", "color": "black"});
+	})
+
 })
 
